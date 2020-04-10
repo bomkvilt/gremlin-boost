@@ -1,5 +1,5 @@
 GN_vcpkg_install(boost)
-find_package(boost REQUIRED 
+find_package(Boost REQUIRED 
     filesystem 
     date_time 
     thread
